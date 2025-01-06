@@ -1,6 +1,3 @@
-Certainly! Here's a README tailored to you, **JO AMIR**, as the creator of the website template:
-
----
 
 # JO AMIR - Website Template
 
